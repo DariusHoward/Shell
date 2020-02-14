@@ -3,7 +3,7 @@ CC = gcc
 CFLAGS = -c -Wall
 OBJECT = fibonacci.o hello.o shell.o 
 PROGRAM = uab_sh
-DEP = functions.h
+
 # Rules
 all: $(PROGRAM)
 
