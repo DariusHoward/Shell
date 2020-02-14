@@ -5,7 +5,9 @@
  *
  * This program is a shell and runs all the commands above as a shell would. 
  * 
- * 
+ * Compile by typing:
+ * make
+ * make exec
  * For the program I used the following resources below:
  * https://gitlab.cs.uab.edu/djh1997/CS332-Project2
  *https://github.com/brenns10/lsh/blob/master/src/main.c
